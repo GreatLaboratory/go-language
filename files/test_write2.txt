@@ -1,0 +1,4 @@
+Hello Golang!
+File Write Test1
+Hello Golang!
+File Write Test2
